@@ -1,0 +1,17 @@
+
+.bv {
+    background-image: url(./imagenes/bulldog-inglés-cahorros.jpg);
+    background-repeat: no-repeat;
+	/* background-size: 100% 100%; */
+	background-size:cover; 
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+}
+
+/* body {
+    background-image: url(./imagenes/parque-perros-4.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }  */

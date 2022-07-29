@@ -1,0 +1,19 @@
+.home{
+    background-image: url(./imagenes/depositphotos_10865997-stock-photo-bull-terrier.jpg);
+    background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-size:cover; 
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+ 
